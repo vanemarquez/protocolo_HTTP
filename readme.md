@@ -29,4 +29,9 @@ A continuación, algunos de los verbos principales:
 ## **API**
 Es un conjunto de reglas, protocolos y herramientas que permiten a diferentes aplicaciones de software comunicarse entre sí.
 
+##**JSON**
+Es un formato de intercambio de datos. 
+Es un requisito en el protocolo http que viaje en formato json.
+
+
 
